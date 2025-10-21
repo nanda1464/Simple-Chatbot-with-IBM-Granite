@@ -1,6 +1,4 @@
-# Simple-Chatbot-with-IBM-Granite
-
-# Simple Chatbot dengan AI IBM Granite 🤖
+# Simple-Chatbot-using-IBM-Granite
 
 ## 📝 Description
 
